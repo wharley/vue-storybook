@@ -1,0 +1,29 @@
+.widget-wrapper {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.widget-card {
+  display: grid;
+  padding: 35px 40px;
+  min-width: 310px;
+
+  text-align: center;
+  border-color: #FFFFFF;
+  background-color: #FFFFFF;
+  box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.15);
+  box-sizing: border-box;
+}
+
+.widget-stats-number,
+.widget-stats-title {
+  line-height: 1;
+  font-family: "Antonio Light", Helvetica, Arial, Verdana, Tahoma, sans-serif;
+}
+
+.widget-stats-number {
+  font-size: 2.6rem;
+  margin-bottom: 0.5rem;
+  color: #AD2631;
+}
