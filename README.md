@@ -2,7 +2,7 @@
 
 A simple example using storybook with vuejs
 
-![storybook][/src/assets/vue-storybook.gif]
+![storybook](/src/assets/vue-storybook.gif)
 
 ## Project setup
 ```
